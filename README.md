@@ -1,5 +1,7 @@
 # aqa-code
 Код с лекций Автоматизация тестирования
+[![Build status](https://ci.appveyor.com/api/projects/status/33j69y2fwwu3ogf8?svg=true)](https://ci.appveyor.com/project/Ilmir1995/gittester2)
+
 
 1. [x] [Основы автоматизации](basics/)
 1. [x] [Тестирование API, CI](api-ci/)
